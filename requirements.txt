@@ -43,12 +43,7 @@ streamlit==1.19.0
 tensorboard==2.11.2
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow==2.11.0
-tensorflow-estimator==2.11.0
-tensorflow-intel==2.11.0
-tensorflow-io-gcs-filesystem==0.31.0
-termcolor==2.2.0
-threadpoolctl==3.1.0
+tensorflow==2.10.1
 toml==0.10.2
 toolz==0.12.0
 tornado==6.2
