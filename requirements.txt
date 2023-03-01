@@ -27,9 +27,6 @@ keras==2.11.0
 lazy_loader==0.1
 libclang==15.0.6.1
 librosa==0.8.0
-llvmlite==0.39.1
-Markdown==3.4.1
-markdown-it-py==2.2.0
 MarkupSafe==2.1.2
 mdurl==0.1.2
 msgpack==1.0.4
