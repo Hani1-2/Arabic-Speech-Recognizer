@@ -1,6 +1,5 @@
-numpy==1.19.5
-tensorflow==2.5.0
+numpy==1.23.5
+tensorflow==2.11.0
 librosa==0.8.1
-streamlit==1.1.0
-scikit-learn==0.24.2
-matplotlib==3.4.2
+streamlit==1.19.0
+scikit-learn==1.2.1
